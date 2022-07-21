@@ -1,0 +1,17 @@
+/* <> {} [] 
+ aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, 
+ olive, orange, purple, red, silver, teal, 
+ white, yellow... colores que se puedn usar */
+h1 {
+	color:rgb(33, 126, 54); 
+}
+h2 {
+	color: #090FCC; /* colores Hexadecimal*/
+}
+
+h3 {
+	color: rgb(100%, 20%, 203%);
+}
+h4 {
+	color: rgb(50, 100, 250,.2);
+}

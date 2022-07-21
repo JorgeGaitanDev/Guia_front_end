@@ -1,0 +1,39 @@
+/* <> {} */
+/** {  quita espacios
+	margin:0;
+	padding:0;
+	color: red;
+} */
+h1,h2,h3,h4,h5,h6 {
+	color:red ;
+}
+
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 20px;
+}
+p {
+	color:blue ;
+}
+
+a {
+	font-size:20px;
+	color: fuchsia;
+}
+
+p a {
+	font-size: 20px;
+	color: green;
+}
+.purple {
+	font-size: 10px;
+	color: purple;
+}
+
+a [href="https://www.facebook.com/HeavyFamily/"] {
+	color: yellowgreen;
+}
+
+/* <> {} [] */

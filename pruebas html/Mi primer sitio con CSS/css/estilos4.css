@@ -1,0 +1,65 @@
+h1	{
+	font-weight: normal;
+	text-align: center;
+}
+
+p {
+	font-family:Arial, hervetica, sans-serif, "Myriad Pro";
+	font-size:20px;
+	font-weight: normal; /*bold en negrilla*/
+	text-align: center; /*left, right*/
+	line-height:20px;  /* espacio entre reglones*/
+	text-decoration: none; /* text-decoration:none; para 
+	quitar el subrayado overline, linea arriba, line-through, 
+	tachar el texto, underline, subrayar texto*/
+	text-transform:lowercase; /*capitalize, las primweras ne 
+	mayus, uppercase mayus all*/
+	letter-spacing: normal; /*espaciado entre letras*/
+	word-spacing: normal; /*espaciado de cada palabra*/
+	text-shadow: 1px 1px 1px #000; /*agregar sombra*/
+
+} 
+
+
+/* <> {} */
+/* div {
+	width: 100px;
+	height: 100px;
+	background: #4A88F4;
+	color: #fff;
+	front-size: 30px;
+	float: left;
+}
+
+/* div {
+	width: 100px;
+	height: 100px;
+	background: #4A88F4;
+	color: #fff;
+	front-size: 30px;
+}
+
+
+/* .caja {
+	position:static; todo queda normal con static
+	top: 100px;
+	bottom: 0;
+	right: 0;
+	left: 300px;
+}
+
+/* .caja {
+	position:absolute;
+	top: 100px;
+	bottom: 0;
+	right: 0;
+	left: 0px;
+}
+
+
+/* .caja_padre {
+	width:300px;
+	height:300px;
+	background: #000;
+	position: relative;
+}

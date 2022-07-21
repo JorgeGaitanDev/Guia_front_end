@@ -1,0 +1,16 @@
+/* <> {} [] */
+
+body {
+ font-size: 16px;
+}
+
+div {
+	background: #000;
+	color: #fff;
+	width:30%; /*  % se usa para android y que  */
+
+}
+
+ p {
+	font-size: 1em;
+}
